@@ -1,0 +1,335 @@
+    1  df -h
+    2  exit
+    3  git version
+    4  pwd
+    5  bash
+    6  quit
+    7  exit
+    8  pwd
+    9  mkdir projects
+   10  cd projects/
+   11  pwd
+   12  git version
+   13  git config --global user.name "Naresh Kumar"
+   14  git config --global user.email "nareshkumar.ganji@gmail.com"
+   15  git config --global --list
+   16  git clone https://github.com/naruganji23/MyFirst-GIT.git
+   17  ls
+   18  cd MyFirst-GIT/
+   19  ll
+   20  ls -lrth
+   21  ls -lrtha
+   22  cat README.md 
+   23  git status
+   24  echo "Test git quick start demo" >> start.txt
+   25  ls
+   26  cat start.txt 
+   27  git status
+   28  git add start.txt 
+   29  git status
+   30  git commit -m "sdding start file"
+   31  git status
+   32  git push origin master
+   33  notepad++
+   34  notepad++
+   35  notepad++
+   36  notepad++
+   37  Notepad++
+   38  notepad ++
+   39  notepad
+   40  notepad
+   41  notepad .bash_profile
+   42  clear
+   43  cat ~/.gitconfig 
+   44  git config --global --list
+   45  git config --global -e
+   46  pwd
+   47  cd 
+   48  pwd
+   49  cd projects/
+   50  ls
+   51  git init fresh-project
+   52  ls
+   53  cd fresh-project/
+   54  pwd
+   55  ls
+   56  ls -al
+   57  cd .git/
+   58  ls
+   59  cd ..
+   60  pwd
+   61  git status
+   62  notepad hipster.txt
+   63  git status
+   64  git add hipster.txt 
+   65  git status
+   66  git commit
+   67  git status
+   68  cd ..
+   69  ls
+   70  rm -rf fresh-project/
+   71  ls
+   72  rm -rf MyFirst-GIT
+   73  ls
+   74  pwd
+   75  pwd
+   76  unzip ~/Downloads/initializr-verekia-4.0.zip 
+   77  ls
+   78  cd initializr/
+   79  ls
+   80  cd ..
+   81  ls
+   82  mv initializr web-project
+   83  ls
+   84  cd web-project/
+   85  ls
+   86  pwd
+   87  git init
+   88  ls -al
+   89  git status
+   90  git add .
+   91  ls
+   92  git status
+   93  git commit -m "My first commit, Inline"
+   94  git status
+   95  clear
+   96  git status
+   97  ls -al
+   98  rm -rf .git
+   99  ls
+  100  cd ..
+  101  ls
+  102  rm-rf web-project
+  103  ls
+  104  rm -rf web-project
+  105  ls
+  106  cd
+  107  pwd
+  108  cd projects/
+  109  ls
+  110  git clone https://github.com/naruganji23/starter-web.git
+  111  ls
+  112  cd starter-web/
+  113  ls -lrth
+  114  ls
+  115  ls -al
+  116  cd .git/
+  117  ls
+  118  cd ..
+  119  ls -lrt
+  120  git status
+  121  ls
+  122  git status
+  123  notepad hipster.txt
+  124  git status
+  125  ls
+  126  git add hipster.txt 
+  127  git status 
+  128  git commit
+  129  git status
+  130  vi hipster.txt 
+  131  git status
+  132  git commit
+  133  git status
+  134  git add .
+  135  git status
+  136  git commit -m "Second commit"
+  137  git status
+  138  git pull orgin master
+  139  git push origin master 
+  140  notepad ~/.gitconfig
+  141  pwd
+  142  cd 
+  143  cd projects/
+  144  ls
+  145  cd starter-web/
+  146  ls
+  147  git status
+  148  vi hipster.txt 
+  149  git status
+  150  git commit -am "adding more info"
+  151  git ls-files
+  152  vi test.txt
+  153  git status
+  154  git ls-files
+  155  git add test.txt 
+  156  git status
+  157  git ls-files
+  158  ls
+  159  vi hipster.txt 
+  160  git status
+  161  git commit -m "adding the data to file"
+  162  git status
+  163  git add hipster.txt 
+  164  git status
+  165  vi hipster.txt 
+  166  git status
+  167  git add hipster.txt 
+  168  git status
+  169  git commit -m "more commite"
+  170  git status
+  171  git push origin master
+  172  git status
+  173  midir -p leve11/level12/leve13/leve15
+  174  mkdir -p leve11/level12/leve13/leve15
+  175  ls
+  176  cd leve11/
+  177  ls
+  178  vi leve11-file.txt
+  179  ls
+  180  cd leve12
+  181  vi leve12-file.txt
+  182  ls
+  183  cd leve13
+  184  pwd
+  185  ls
+  186  mv leve12-file.txt leve12
+  187  ls
+  188  cd leve12 
+  189  cd level12 
+  190  ls
+  191  ls
+  192  cd ..
+  193  ls
+  194  rm -rf level12
+  195* ls2
+  196  cd leve1
+  197  cd leve12 
+  198  ls
+  199  rm -rf leve12 
+  200  mkdir leve12
+  201  cd leve12/
+  202  vi leve12-file.txt
+  203  mkdir leve13
+  204  cd leve13/
+  205  vi leve13-file.txt
+  206  pwd
+  207  ls
+  208  cd ../..
+  209  ls- lrth
+  210  ls
+  211  cd ..
+  212  ls
+  213  pwd
+  214  git status
+  215  git add .
+  216  git status
+  217  git commit -m "Adding several messages"
+  218  git status
+  219  git push origin master
+  220  cd leve11/
+  221  vi leve11-file.txt 
+  222  git status
+  223  git add .
+  224  git status
+  225  git commit -m "chnages at leve11 file"
+  226  git status
+  227  ls
+  228  vi leve11-file.txt 
+  229  git status
+  230  git add leve11-file.txt 
+  231  git status
+  232  vi leve11-file.txt 
+  233  git restore --stage leve11-file.txt 
+  234  git status
+  235  notepad leve11-file.txt 
+  236  cat leve11-file.txt 
+  237  git status
+  238  git restore leve11-file.txt 
+  239  git status
+  240  cat leve11-file.txt 
+  241  git status
+  242  cd leve12/leve13/
+  243  ls
+  244  git status
+  245  git mv leve13-file.txt modified-file.txt
+  246  git status
+  247  git commit -m "renamed the file name"
+  248  git status
+  249  pwd
+  250  cd ..
+  251  ls
+  252  mv leve12-file.txt modified_leve12.txt
+  253  ls
+  254  git status
+  255  git add -A 
+  256  git staus
+  257  git commit -m "renamed the level2"
+  258  git status
+  259  ls
+  260  git modified_leve12.txt 2.txt
+  261  ls
+  262  git status
+  263  ls
+  264  git mv modified_leve12.txt 2.txt
+  265  git status
+  266  git mv 2.txt modified_leve12.txt
+  267  git status
+  268  ls
+  269  git mv modified_leve12.txt leve13/
+  270  git status
+  271  ls
+  272  cd leve13/
+  273  ls
+  274  gitstatus
+  275  git status
+  276  cd ..
+  277  git status
+  278  git commit -m "moved from level12 to level13"
+  279  ls
+  280  git status
+  281  cd leve13/
+  282  ls
+  283  mv modified_leve12.txt ..
+  284  ls
+  285  cd ..
+  286  ls -lrth
+  287  git status
+  288  git add -A
+  289  git sattus
+  290  git status
+  291  git commit -m "backed to original folder"
+  292  git status
+  293  pwd
+  294  cd ../../
+  295  pwd
+  296  git status
+  297  vi doomed.txt
+  298  ls
+  299  git status
+  300  git rm doomed.txt 
+  301  rm doomed.txt 
+  302  ls
+  303  git status
+  304  git ls-files
+  305  git rm test.txt 
+  306  git status
+  307  git commit -m "Deleted the file"
+  308  git status
+  309  ls
+  310  git ls-files
+  311  git rm hipster.txt 
+  312  git status
+  313  git restore --staged hipster.txt
+  314  git status
+  315  git restore hipster.txt
+  316  git status
+  317  ls
+  318  rm hipster.txt 
+  319  git status
+  320  git restore hipster.txt
+  321  git status
+  322  ls
+  323  git help log
+  324  git status
+  325  pwd
+  326  ls
+  327  git log
+  328  git log --abbrev-commit
+  329  git log --oneline --graph --decorate
+  330  ls
+  331  git log -- hipster.txt
+  332  git log --follow -- leve11/leve12/leve13
+  333  git show 7bbbfed3cc29b782ea32d16a4ecbd019bb942348
+  334  history 
+  335  history >> history.txt
