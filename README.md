@@ -6,7 +6,9 @@ This repository is for showing how Git and GitHub work
 
 ##deployment
 
-##Compailed
+##How to contribute
+
+Please form this repository and then issue pull requestes for review
 
 ##Test
 
