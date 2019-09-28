@@ -3,7 +3,7 @@
 This repository is for showing how Git and GitHub work
 
 ## Purpose
-Adding a line
+Adding a line adding more data in file
 ##deployment
 
 ##How to contribute
