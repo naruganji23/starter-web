@@ -12,4 +12,10 @@ Orange
 
 Indigo
 
+<<<<<<< Updated upstream
 Adding one more line to the file for testing the stash functionality 
+=======
+Adding one more line to the file
+
+Please update few more colors
+>>>>>>> Stashed changes
