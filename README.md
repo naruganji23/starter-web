@@ -13,4 +13,8 @@ This repository is for showing how Git and GitHub work
 ##Copyright
 
 2019 Git.Training
+
+##Copyright2
+
+2019 Git.practice
 Sample website with plenty of files for demos
