@@ -12,6 +12,8 @@ Please form this repository and then issue pull requestes for review
 
 ##Test
 
+Test the Info
+
 ##Copyright
 
 2019 Git.Training
