@@ -12,4 +12,4 @@ Orange
 
 Indigo
 
-Adding one more line to the file
+Adding one more line to the file for testing the stash functionality 
