@@ -7,3 +7,9 @@ green
 yellow
 
 blue
+
+Orange
+
+Indigo
+
+Adding one more line to the file
