@@ -20,7 +20,7 @@ Test the Info
 
 ##Copyright2
 
-Copy right update
+Copy right update to check stash
 
 2019 Git.practice
 Sample website with plenty of files for demos
